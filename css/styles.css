@@ -1,0 +1,54 @@
+/*body {
+	background-color: #E8DCF2;
+}*/
+
+h1 {
+	width: 1280px;
+	border: solid 5px black;
+	padding: 15px;
+	margin: 10px;
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	font-size: 25px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 100;
+	line-height: 25px;
+	color: black;
+	size: 10px;
+	text-align: center;
+}
+img {
+	position: relative;
+    left: 525px;
+    border: solid 5px black;
+	height: auto; 
+    width: auto; 
+    max-width: 300px; 
+    max-height: 300px;
+}
+h3 {
+	width: 1280px;
+	border: solid 5px black;
+	padding: 15px;
+	margin: 10px;
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	font-size: 25px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 100;
+	line-height: 25px;
+	color: black;
+	size: 10px;
+	text-align: center;
+}
+p {
+	text-align: center;
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	font-size: 15px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 100;
+	line-height: 25px;
+	color: black;
+	size: 10px;
+}
